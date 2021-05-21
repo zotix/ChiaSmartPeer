@@ -1,5 +1,5 @@
 # Chia Smart Peer v1.0 
-
+It is a tool to help you find low latency peer and automatically adds to you Node list.
 # low latency peer mean more chance to win chia.
 
 ![Image](https://github.com/ChiaNetworkTools/ChiaSmartPeer/blob/main/chiasmartpeerv1.png?raw=true)
